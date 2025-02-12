@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/elementscounter.iml" filepath="$PROJECT_DIR$/elementscounter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/srcjava/srcjava.iml" filepath="$PROJECT_DIR$/srcjava/srcjava.iml" />
     </modules>
   </component>
 </project>

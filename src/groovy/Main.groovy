@@ -1,3 +1,5 @@
+package groovy
+
 static void main(String[] args) {
   def result = countElements(arrInit())
   println("Результат: " + result)
@@ -8,6 +10,7 @@ static def countElements(List list) {
 }
 
 static def arrInit() {
+  println ("Groovy")
   println ("Введите значения: ")
   Scanner scanner = new Scanner(System.in);
   String input = scanner.nextLine()
